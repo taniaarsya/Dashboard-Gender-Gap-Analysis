@@ -1,0 +1,14 @@
+name: shinydashboard
+title: shinydashboard
+username:
+account: taniaarsya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5201732
+bundleId: 5291252
+url: https://taniaarsya.shinyapps.io/shinydashboard/
+when: 1637818467.01009
+lastSyncTime: 1637818467.01009
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: inclass-IP-day2-updated.Rmd
